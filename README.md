@@ -1,4 +1,4 @@
 # Haihu
-素材配布用リポジトリ
+配布用リポジトリ
 
-releaseのところにunitypackageなど、いろいろ配布したいものを置いています
+releaseのところにunitypackageや完成アプリなど、いろいろ配布したいものを置いています
